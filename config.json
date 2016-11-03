@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "rows": 30,
+  "columns": 30,
+  "separator": " ",
+  "alive": "☺",
+  "dead": "☠",
+  "interval": 100
+}

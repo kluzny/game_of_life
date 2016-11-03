@@ -1,0 +1,3 @@
+package: github.com/kluzny/game_of_life
+import:
+- package: github.com/buger/goterm

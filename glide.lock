@@ -1,0 +1,6 @@
+hash: 2d594eeaf68b0cd3e2c35b96fdc6d6d37127c108f68b6e8ec0e32247ca07248e
+updated: 2016-11-02T22:23:00.252310343-05:00
+imports:
+- name: github.com/buger/goterm
+  version: d281585cd7365cff9edfed1a5115fc624a012bdc
+testImports: []
